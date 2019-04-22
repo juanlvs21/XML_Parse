@@ -1,0 +1,32 @@
+<tg>
+    <autor>Pedro Perez</autor>
+    <fecha_pre>28/05/58</fecha_pre>
+    <titulo_tg>Diseño de un reconocedor de T.G</titulo_tg>
+    <modalidad>Investigacion</modalidad>
+    <tutor>Ana Mujica</tutor>
+    <nota>Aprobado 5</nota>
+</tg>
+<tg>
+    <autor>Miguel Mendez</autor>
+    <fecha_pre>23/08/15</fecha_pre>
+    <titulo_tg>Diseño de un sistema web</titulo_tg>
+    <modalidad>Cursos especiales de grado</modalidad>
+    <tutor>Daniel Rojas</tutor>
+    <nota>Reprobado</nota>
+</tg>
+<tg>
+    <autor>Samantha Hernandez</autor>
+    <fecha_pre>05/11/16</fecha_pre>
+    <titulo_tg>Creacion de una aplicacion de escritorio</titulo_tg>
+    <modalidad>Pasantias</modalidad>
+    <tutor>Ana Mujica</tutor>
+    <nota>5</nota>
+</tg>
+<tg>
+    <autor>Miguelito</autor>
+    <fecha_pre>18/05/85</fecha_pre>
+    <titulo_tg>Diseño de un reconocedor de T.G</titulo_tg>
+    <modalidad>Pasantias</modalidad>
+    <tutor>Ana Mujica</tutor>
+    <nota>Reprobado 0</nota>
+</tg>
