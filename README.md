@@ -1,7 +1,7 @@
 # Proyecto Nro.1 - XML Parse.
 La comisión de trabajo de grado de la escuela de ingenieria y ciencias aplicadas desea que usted cree una aplicación para validar la información almacenada en su base de datos acerca de los trabajos de grado presentados mediante un archivo XML. El formato de los datos de este archivo es el siguiente:
 
-<img src="https://imgur.com/I1ToNri">
+<img src="https://imgur.com/I1ToNri" />
 
 ## Debe tener en cuenta las siguientes caracteristicas del formato:
 - El titulo permite todo tipo de caracteres excepto < >. Puede tener mas de una linea.
