@@ -1,5 +1,5 @@
 # Proyecto Nro.1 - XML Parse.
-La comisión de trabajo de grado de la escuela de ingenieria y ciencias aplicadas desea que usted cree una aplicación para validar la información almacenada en su base de datos acerca de los trabajos de grado presentados mediante un archivo XML. El formato de los datos de este archivo es el siguiente:
+La Comisión de Trabajo de Grado de la EICA desea que usted cree una aplicación para validar la información a almacenar en su Base de Datos, acerca de los Trabajos Grado presentados, mediante un archivo XML. El formato de los datos en este archivo es el siguiente: 
 
 <div align="center">
     <img src="https://i.imgur.com/I1ToNri.png" />
@@ -21,4 +21,4 @@ La nota numerica puede ir del 0 al 10 sin decimales.
 - Su aplicación debe solicitar el nombre del archivo XML, para cualquier archivo.
 - Las salidas posibles son: ***`Archivo Ok`***, ***`Error. Registro #n, linea m`*** o ***`Archivo no encontrado'`***.
 
-Debe entregar su aplicacion con codigo fuente y un archivo de prueba
+Escriba una especificación sintáctica (gramática), en EBNF, para este formato y una aplicación en el lenguaje de programación Python (versión 2.7), que permita validar el contenido del archivo XML; este programa deberá implementar la especificación sintáctica generada. No se permite el uso de librerías o elementos externos complementarios al lenguaje de programación. Solo se podrá utilizar las librerías nativas del lenguaje que trae la instalación estándar. 
